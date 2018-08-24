@@ -1,0 +1,42 @@
+
+.margin-top-1 {
+  color: white;
+  background: #1b4b34;
+  font-weight: bold;
+  margin-top: 1%; 
+}
+
+.padding-top-6 {
+	padding-top: 6px;
+}
+
+.message-body {
+ background: url('./images/wallpaper.jpg') center center no-repeat;
+ background-size: cover;
+}
+
+.profile-image {
+	height: 9vh;
+	width: 9vh;
+}
+
+.dp-image {
+	height: 100%;
+	width: 100%;
+}
+
+.profile-dropdown {
+	color: white;	
+}
+
+.back-button {
+	color:white;
+}
+
+.back-button:hover, .profile-dropdown:hover {
+	color:white;
+}
+
+.profile-page {
+	background: #d9d9d9;
+}
